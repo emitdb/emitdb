@@ -1,0 +1,13 @@
+{
+  "indexes": {
+    "child": true,
+    "value": true,
+    "inarray": true,
+    "word": true,
+    "phrase": true,
+    "geo": true,
+    "security": true,
+    "collection": true,
+    "directory": true
+  }
+}
