@@ -9,7 +9,7 @@ lib-cov
 *.gz
 
 node_modules/
-testdb/
+data/
 
 pids
 logs
