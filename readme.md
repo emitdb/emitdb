@@ -1,8 +1,6 @@
+[![build status](https://secure.travis-ci.org/emitdb/emitdb.png)](http://travis-ci.org/emitdb/emitdb)
+[![deps status](https://david-dm.org/emitdb/emitdb.png)](https://david-dm.org/emitdb/emitdb)
+
 # emitdb
 
-a simple no database solution to your data streaming needs
-
-```
-js.store('/foo/bar', function () {
-
-})
+foo bar
